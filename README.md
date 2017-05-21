@@ -9,13 +9,13 @@ simple R package for OpenCV face/hand/finger detection demo
 
    These are compiled OpenCV 3.2.0 binary/libraries for Windows by Rtools34 mingw G++ 
    
-   ROpencv_x64.zip includes etc, include, x64 sub-directories.
+   ROpencv_x64.zip includes etc, include, and x64 sub-directories.
    
    ROpencv_x86.zip only includes x87 sub-directory   
 
 2. __Uncompress zip file(s) in some directory, e.g., d:\Ropencv__
 
-   Under d:\ROpencv, there should be etc, include, x64, x86 subdirectories.
+   Under d:\ROpencv, there should be etc, include, x64, and/or x86 subdirectories.
 
 3. __Modify Windows Environment Variables:__
 
