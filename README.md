@@ -7,16 +7,16 @@ Please check http://steve-chen.tw/?p=737
 
 1. Download ROpencv_x64.zip +/- ROpencv_x86_part.zip from
 
-https://github.com/stevechctw/cvDetect/
+   https://github.com/stevechctw/cvDetect/
 
 2. Uncompress zip file in some directory, e.g., d:\Ropencv
 
-Under d:\Opencv, there should be etc, include, x64, x86 subdirectories.
+   Under d:\Opencv, there should be etc, include, x64, x86 subdirectories.
 
 3. Modify Windows Environmental Variables:
-add the following new paths to PATH variable:
+   add the following new paths to PATH variable:
 
-d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
+   d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
 
 4. Download cvDetect_0.1.0.zip
 
