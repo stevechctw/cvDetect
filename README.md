@@ -55,6 +55,7 @@ You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if 
 
 4. __In R:__ 
 
+Suppose you save cvDetect_0.1.1.tar.gz under d:\temp directory:  
 <pre>
 install.packages("d:/temp/cvDetect_0.1.1.tar.gz",repos=NULL,type="source")
 </pre>
