@@ -15,11 +15,11 @@ Please check http://steve-chen.tw/?p=737
 
 2. __Uncompress zip file(s) in some directory, e.g., d:\Ropencv__
 
-   Under d:\Opencv, there should be etc, include, x64, x86 subdirectories.
+   Under d:\ROpencv, there should be etc, include, x64, x86 subdirectories.
 
 3. __Modify Windows Environment Variables:__
 
-   add the following new paths to PATH environment variable:
+   add ROpencv binray directories to PATH environment variable:
 <pre>
    d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
 </pre>   
