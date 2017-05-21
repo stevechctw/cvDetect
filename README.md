@@ -5,8 +5,8 @@ Simple R package for OpenCV face/hand/finger detection demo, with the help of [R
 
 ## Related tool/package/library versions
 
-__Rtools__: Rtools34.exe  
 __R__: R-3.4.0  
+__Rtools__: Rtools34.exe  
 __OpenCV__: 3.2.0  
 __ROpenCVLite__: 0.1.1
 
@@ -38,7 +38,7 @@ __ROpenCVLite__: 0.1.1
 
 ## Compile and install cvDetect source package (Windows only) 
 
-You have to install Rtools package if you want to compile yourself.
+You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if you want to compile cvDetect yourself.
 
 1. __Follows Stepe 1 to Step 3 in above binary package installation procedure.__ 
 
