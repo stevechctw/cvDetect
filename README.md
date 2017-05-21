@@ -26,7 +26,7 @@ simple R package for OpenCV face/hand/finger detection demo
 
 4. __Download cvDetect_0.1.0.zip:__
 
-   In R, install zip file by "Install package(s) from local files..." menu
+   In R, install zip file via "Install package(s) from local files..." menu
 
 ## Usage
 
