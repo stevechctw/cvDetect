@@ -30,6 +30,8 @@ simple R package for OpenCV face/hand/finger detection demo, made by Rcpp tool.
 
 ## Usage
 
+Enter 'q' or 'Q' to stop these funcitons.
+
 <pre>
 library(cvDetect)
 
