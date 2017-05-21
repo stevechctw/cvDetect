@@ -19,7 +19,7 @@ simple R package for OpenCV face/hand/finger detection demo
 
 3. __Modify Windows Environment Variables:__
 
-   add ROpencv binray directories to PATH environment variable:
+   add ROpencv binray directories to __PATH__ environment variable:
 <pre>
    d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
 </pre>   
