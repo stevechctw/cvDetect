@@ -62,5 +62,5 @@ https://github.com/opencv/opencv_attic/blob/master/opencv/samples/cpp/multicasca
 __Hand/Palm detection:__  by Andol Li  
 https://www.andol.me/1830/detecting-hand-gestures-using-haarcascades-training/
 
-__Finger detection:__ Abner Matheus  
+__Finger detection:__ by Abner Matheus  
 https://picoledelimao.github.io/blog/2015/11/15/fingertip-detection-on-opencv/
