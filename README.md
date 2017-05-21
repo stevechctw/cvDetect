@@ -22,7 +22,7 @@ __ROpenCVLite__: 0.1.1
    
    ROpencv_x86.zip only includes x87 sub-directory   
 
-2. __Uncompress zip file(s) in some directory, e.g., d:\Ropencv__
+2. __Uncompress zip file(s) in some directory, e.g., d:\ROpencv__
 
    Under d:\ROpencv, there should be etc, include, x64, and/or x86 subdirectories.
 
@@ -31,7 +31,7 @@ __ROpenCVLite__: 0.1.1
    add ROpencv binray directories to __PATH__ environment variable.  
    e.g.  
 <pre>
-   d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
+   d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin
 </pre>   
 
 4. __Download cvDetect_0.1.1.zip:__
