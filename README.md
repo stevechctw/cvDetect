@@ -53,11 +53,11 @@ finger_detect(cameraId=0)
 
 ## Original C++ detection source files in cvDetect package
 
-__Face detection:__
+__Face detection:__  
 https://github.com/opencv/opencv_attic/blob/master/opencv/samples/cpp/multicascadeclassifier.cpp
 
 __Hand/Palm detection:__  
 https://www.andol.me/1830/detecting-hand-gestures-using-haarcascades-training/
 
-__Finger detection:__
+__Finger detection:__  
 https://picoledelimao.github.io/blog/2015/11/15/fingertip-detection-on-opencv/
