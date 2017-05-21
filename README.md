@@ -48,7 +48,7 @@ You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if 
 
    add, e.g., "d:\Ropencv" , to a new  __OPENCV__ environment variable.
    
-3. __Download  cvDetect_0.1.1.tar.gz here.__
+3. __Download  cvDetect_0.1.1.tar.gz in this page.__
 
 4. __In R:__ 
 
