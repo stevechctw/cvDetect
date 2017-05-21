@@ -29,6 +29,7 @@ __ROpenCVLite__: 0.1.1
 3. __Modify PATH environment variable in Windows:__
 
    add ROpencv binray directories to __PATH__ environment variable.  
+   This ensures R to find related OpenCV dll files when running cvDetect.  
    e.g.  
 <pre>
    d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin;............... 
