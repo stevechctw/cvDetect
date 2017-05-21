@@ -7,7 +7,7 @@ simple R package for OpenCV face/hand/finger detection demo
 
 1. __Download ROpencv_x64.zip +/- ROpencv_x86_part.zip__
 
-   These are compiled OpenCV 3.2.0 binary/libraries by Rtools34 mingw G++ for Windows
+   These are compiled OpenCV 3.2.0 binary/libraries for Windows by Rtools34 mingw G++ 
    
    ROpencv_x64.zip includes etc, include, x64 sub-directories.
    
