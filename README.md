@@ -1,4 +1,4 @@
-# cvDetect
+# cvDetect : simple OpenCV detections for R
 simple R package for OpenCV face/hand/finger detection demo
 
 (Also check http://steve-chen.tw/?p=737 )
