@@ -1,7 +1,14 @@
 # cvDetect : Simple OpenCV Image/Webcam Detections for R
-Simple R package for OpenCV face/hand/finger detection demo, with the help of Rcpp package. Currently Windows only.
+Simple R package for OpenCV face/hand/finger detection demo, with the help of [ROpenCVLite](https://github.com/swarm-lab/ROpenCVLite) and Rcpp packages. Currently Windows only.
 
 (Also check http://steve-chen.tw/?p=737  (Traditional Chinese page) )
+
+## Related tool/package/library versions
+
+__Rtools__: Rtools34.exe  
+__R__: R-3.4.0  
+__OpenCV__: 3.2.0  
+__ROpenCVLite__: 0.1.1
 
 ## Install cvDetect binary package (Windows only)
 
