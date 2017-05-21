@@ -33,6 +33,10 @@ Please check http://steve-chen.tw/?p=737
 <pre>
 library(cvDetect)
 
+?face_detect
+?hand_detect
+?finger_detect
+
 # face detection via webcam
 # If cameraId = 0 does not work, try 1, 2,....
 face_detect(cameraId=0)
