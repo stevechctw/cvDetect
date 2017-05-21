@@ -3,7 +3,7 @@ Simple R package for OpenCV face/hand/finger detection demo, with the help of [R
 
 (Also check http://steve-chen.tw/?p=737  (Traditional Chinese page) )
 
-![Finder Detection](http://steve-chen.tw/wp-content/uploads/2017/05/finger000.jpg)
+![Finder Detection](http://steve-chen.tw/wp-content/uploads/2017/05/finger001.jpg)
 
 ## Related tool/package/library versions for creating this package
 
