@@ -24,7 +24,7 @@ simple R package for OpenCV face/hand/finger detection demo, made by Rcpp tool.
    d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
 </pre>   
 
-4. __Download cvDetect_0.1.0.zip:__
+4. __Download cvDetect_0.1.1.zip:__
 
    In R, install zip file via "Install package(s) from local files..." menu
 
