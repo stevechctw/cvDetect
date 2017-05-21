@@ -3,7 +3,7 @@ simple R package for OpenCV face/hand/finger detection demo, with the help of Rc
 
 (Also check http://steve-chen.tw/?p=737  (Traditional Chinese page) )
 
-## cvDetect binary file install
+## cvDetect binary package install (Windows only)
 
 1. __Download ROpencv_x64.zip +/- ROpencv_x86_part.zip__
 
@@ -27,6 +27,20 @@ simple R package for OpenCV face/hand/finger detection demo, with the help of Rc
 4. __Download cvDetect_0.1.1.zip:__
 
    In R, install zip file via "Install package(s) from local files..." menu
+
+## cvDetect source package install (Windows only) 
+
+1. Follows Stepe 1 to Step 3 in above binary package installation procedure. 
+
+2. __Add OPENCV Windows Environment Variables:__
+
+   add, e.g., d:\Ropencv , to a new  __OPENCV__ environment variable.
+   
+3. __In R:__
+
+<pre>
+install.packages("d:/temp/cvDetect_0.1.1.tar.gz",repos=NULL,type="source")
+</pre>
 
 ## Usage
 
