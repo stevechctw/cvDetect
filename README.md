@@ -32,6 +32,8 @@ simple R package for OpenCV face/hand/finger detection demo, made by Rcpp tool.
 
 Enter 'q' or 'Q' to stop these funcitons.
 
+If cameraId = 0 does not work, try 1, 2,.... 
+
 <pre>
 library(cvDetect)
 
@@ -40,7 +42,6 @@ library(cvDetect)
 ?finger_detect
 
 # face detection via webcam
-# If cameraId = 0 does not work, try 1, 2,....
 face_detect(cameraId=0)
 
 # face detection in Photo 
