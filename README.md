@@ -24,7 +24,7 @@ __ROpenCVLite__: 0.1.1
 
    Under d:\ROpencv, there should be etc, include, x64, and/or x86 subdirectories.
 
-3. __Modify Windows PATH environment variable:__
+3. __Modify PATH environment variable in Windows:__
 
    add ROpencv binray directories to __PATH__ environment variable.  
    e.g.  
@@ -42,7 +42,7 @@ You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if 
 
 1. __Follows Stepe 1 to Step 3 in above binary package installation procedure.__ 
 
-2. __Add OPENCV Windows environment variables:__
+2. __Add OPENCV environment variables in Windows:__
 
    add, e.g., "d:\Ropencv" , to a new  __OPENCV__ environment variable.
    
