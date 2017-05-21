@@ -53,7 +53,7 @@ hand_detect(cameraId=0)
 finger_detect(cameraId=0)
 </pre>
 
-## Original C++ detection source codes in cvDetect package
+## Original C++ detection source codes used in cvDetect
 
 __Face detection:__  
 https://github.com/opencv/opencv_attic/blob/master/opencv/samples/cpp/multicascadeclassifier.cpp
