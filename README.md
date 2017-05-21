@@ -28,12 +28,12 @@ __ROpenCVLite__: 0.1.1
 
 3. __Modify PATH environment variable in Windows:__
 
-   add ROpencv binray directories to __PATH__ environment variable.  
-   This ensures R to find related OpenCV dll files when running cvDetect.  
+   add ROpencv binray directories to __PATH__ environment variable.     
    e.g.  
 <pre>
    d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin;............... 
 </pre>   
+   This ensures R to find related OpenCV dll files when running cvDetect.  
 
 4. __Download cvDetect_0.1.1.zip:__
 
@@ -48,6 +48,8 @@ You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if 
 2. __Add OPENCV environment variables in Windows:__
 
    add, e.g., "d:\Ropencv" , to a new  __OPENCV__ environment variable.
+
+   This OPENCV environment varible is used in Makevars.win inside src directory.
    
 3. __Download  cvDetect_0.1.1.tar.gz in this page.__
 
