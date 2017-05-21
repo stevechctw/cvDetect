@@ -16,7 +16,7 @@ __ROpenCVLite__: 0.1.1
 
 1. __Download ROpencv_x64.zip +/- ROpencv_x86_part.zip__
 
-   These are compiled OpenCV 3.2.0 binaries/libraries for Windows compiled by Rtools34 mingw G++, using ROpenCVLite package.
+   These are compiled OpenCV 3.2.0 binaries/libraries for Windows by Rtools34 mingw G++, using ROpenCVLite package.
    
    ROpencv_x64.zip includes etc, include, and x64 sub-directories.
    
