@@ -10,6 +10,7 @@ Please check http://steve-chen.tw/?p=737
    These are compiled OpenCV 3.2.0 binary/libraries by Rtools mingw G++ for Windows
    
    ROpencv_x64.zip includes etc, include, x64 sub-directories.
+   
    ROpencv_x86.zip only includes x87 sub-directory   
 
 2. Uncompress zip file(s) in some directory, e.g., d:\Ropencv
@@ -22,7 +23,9 @@ Please check http://steve-chen.tw/?p=737
 
    d:\Ropencv\x64\mingw\bin;d:\Ropencv\x86\mingw\bin
 
-4. Download cvDetect_0.1.0.zip. In R, install zip file by "Install package(s) from local files..." menu
+4. Download cvDetect_0.1.0.zip. 
+
+   In R, install zip file by "Install package(s) from local files..." menu
 
 [Simple Usage]
 
