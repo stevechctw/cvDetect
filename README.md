@@ -47,7 +47,7 @@ __ROpenCVLite__: 0.1.1
 
 We have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if we want to compile cvDetect from source.
 
-1. __Follows Stepe 1 to Step 3 in above binary package installation procedure.__ 
+1. __Follow Stepe 1 to Step 3 in above binary package installation procedure.__ 
 
 2. __Add OPENCV environment variables in Windows:__
 
