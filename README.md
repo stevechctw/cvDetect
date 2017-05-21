@@ -29,9 +29,12 @@ Please check http://steve-chen.tw/?p=737
 
 [Simple Usage]
 
-library(cvDetec)
+library(cvDetect)
+
 # face detection via webcam
+# If cameraId = 0 does not work, try 1, 2,....
 face_detect(cameraId=0)
+
 # face detection in Photo 
 face_detect(imgFile="d:/pic/somePeople.jpg")
 
