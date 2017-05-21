@@ -32,6 +32,8 @@ __ROpenCVLite__: 0.1.1
    e.g.  
 <pre>
    d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin;............... 
+   or only
+   d:\ROpencv\x64\mingw\bin;............... 
 </pre>   
    This ensures R to find related OpenCV dll files when running cvDetect.  
 
@@ -57,7 +59,7 @@ You have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if 
 
    Suppose you save cvDetect_0.1.1.tar.gz under d:\temp directory:  
 <pre>
-install.packages("d:/temp/cvDetect_0.1.1.tar.gz",repos=NULL,type="source")
+install.packages("d:/temp/cvDetect_0.1.1.tar.gz",repos=NULL,type="source")  
 </pre>
 
 ## Usage
