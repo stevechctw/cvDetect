@@ -8,6 +8,7 @@ Simple R package for OpenCV face/hand/finger detection demo, with the help of [R
 __Winodws 7 OS 64 bit__  
 __R__: 3.4.0  
 __Rtools__: Rtools34.exe  
+__Rcpp__: 0.12.10  
 __OpenCV__: 3.2.0  
 __ROpenCVLite__: 0.1.1
 
