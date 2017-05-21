@@ -1,7 +1,7 @@
 # cvDetect : simple OpenCV detections for R
 simple R package for OpenCV face/hand/finger detection demo, with the help of Rcpp package.
 
-(Also check http://steve-chen.tw/?p=737 )
+(Also check http://steve-chen.tw/?p=737  (Traditional Chinese page) )
 
 ## cvDetect binary file install
 
