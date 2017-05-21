@@ -31,7 +31,7 @@ __ROpenCVLite__: 0.1.1
    add ROpencv binray directories to __PATH__ environment variable.  
    e.g.  
 <pre>
-   d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin
+   d:\ROpencv\x64\mingw\bin;d:\ROpencv\x86\mingw\bin;............... 
 </pre>   
 
 4. __Download cvDetect_0.1.1.zip:__
