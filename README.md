@@ -32,7 +32,7 @@ simple R package for OpenCV face/hand/finger detection demo, with the help of Rc
 
 You have to install Rtools package if you want to compile yourself.
 
-1. Follows Stepe 1 to Step 3 in above binary package installation procedure. 
+1. __Follows Stepe 1 to Step 3 in above binary package installation procedure.__ 
 
 2. __Add OPENCV Windows environment variables:__
 
