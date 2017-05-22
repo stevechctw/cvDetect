@@ -1,0 +1,19 @@
+Package: cvDetect
+Type: Package
+Title: Interface to test OpenCV face and hand Detection in R
+Version: 0.1.1
+Date: 2017-05-22
+Author: Steve Chen <steve@stat.tku.edu.tw>
+Maintainer: Steve Chen <steve@stat.tku.edu.tw>
+SystemRequirements: Windows; OpenCV (>= 3.2.0)
+Description: cvDetect is a package with simple face and hand detection in R.
+License: LGPL-3
+LazyLoad: yes
+NeedsCompilation: yes
+Imports:
+    Rcpp (>= 0.11.0),
+    methods
+Depends:
+    Rcpp (>= 0.11.0)
+LinkingTo: Rcpp
+URL: https://github.com/stevechctw/cvDetect

@@ -1,0 +1,13 @@
+useDynLib(cvDetect)
+
+## import
+import(Rcpp)
+import(methods)
+
+## misc
+export(face_detect)
+export(hand_detect)
+export(finger_detect)
+
+
+
