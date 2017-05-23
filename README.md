@@ -50,7 +50,7 @@ We have to install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) if w
 
 1. __Follow Stepe 1 to Step 3 in above binary package installation procedure.__ 
 
-2. __Add an OPENCV environment variables via Windows Control Panel:__
+2. __Add an OPENCV environment variable via Windows Control Panel:__
 
    add, e.g., "d:\Ropencv" , to a new  __OPENCV__ environment variable.
 
