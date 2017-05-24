@@ -28,6 +28,10 @@ __ROpenCVLite__: 0.1.1
 
    Under d:\ROpencv, there should be etc, include, x64, and/or x86 subdirectories.
 
+__Note:__ 
+
+If you feel not safe to download files in 1. and 2., you can build it yourself by installing ROpenCVLite package and copy all the files and sub-directories under the "opencv" directory it build to a new directory (e.g. d:\ROpencv). The compiled opencv directory can be located in, e.g., d:\R\R-3.4.0\library\ROpenCV .
+
 3. __Modify PATH environment variable via Windows Control Panel:__
 
    add ROpencv binray directories to __PATH__ environment variable.     
